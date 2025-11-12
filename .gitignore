@@ -1,2 +1,6 @@
 .venv
 rock-paper-scissors.v1i.yolov8
+.env
+dataset
+rock-paper-scissors-1
+yolov5
